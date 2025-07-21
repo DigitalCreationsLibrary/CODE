@@ -1,0 +1,9 @@
+.auto-card-link-card {
+ 
+    background:#FFDAB9!important;
+
+    &:hover {
+        background: #FFFAE3!important;
+
+    }
+}
